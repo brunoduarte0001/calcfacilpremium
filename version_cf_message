@@ -1,8 +1,9 @@
 @@@@version
 <?xml version="1.0" encoding="UTF-8"?>
+<root>
   <key>14513125</key>
   <titulo>Titulo</titulo>
   <mensagem>Esse é apenas um teste</mensagem>
   <acao>Don't forget me this weekend!</acao>
-</xml>
+</root>
 versionEnd@@@@
