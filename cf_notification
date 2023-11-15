@@ -1,4 +1,4 @@
-@@@@version
+@@@@versioncf
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <key>14513125</key>
@@ -7,4 +7,4 @@
   <message>Esse é apenas um teste</message>
   <action>1</action>
 </root>
-versionEnd@@@@
+versionEndcf@@@@
